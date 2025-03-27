@@ -1,5 +1,5 @@
 # EXNO2DS
-# NAME.- THRISHANTH E
+# NAME : THRISHANTH E
 # REG NO: 212224230291
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
