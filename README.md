@@ -1,5 +1,6 @@
 # EXNO2DS
 # NAME.- THRISHANTH E
+# REG NO: 212224230291
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -24,7 +25,7 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        ```py
+```py
   import pandas as pd
   import numpy as np
   import matplotlib.pyplot as plt
@@ -33,7 +34,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
   dt
  ```
          
-![Screenshot 2024-09-13 153035](https://github.com/user-attachments/assets/c1271d70-c329-46c5-aced-a9715ca69a2a)
+![382002336-d3d1579b-0e6b-4a6e-9a4d-8504cec089e6](https://github.com/user-attachments/assets/dcec321b-3036-46f7-9a99-adadbe7a44e0)
+
 
 ```py
         dt.info()
